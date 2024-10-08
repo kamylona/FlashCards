@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Grandstander:ital,wght@0,100..900;1,100..900&display=swap');
+
+:root{
+  --text-color: #19c7c7;
+  --card-front-color: #144480;
+  --card-back-color: #3d76bb;
+}
+
+body {
+  background: url(img/bg-desktop-blue.webp);
+  font-family: Grandstander;
+}
