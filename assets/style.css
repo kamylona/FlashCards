@@ -10,3 +10,12 @@ body {
   background: url(img/bg-desktop-blue.webp);
   font-family: Grandstander;
 }
+.cartao__conteudo {
+    background-color: var(--card-front-color);
+    text-align: center;
+    height: 100%;
+  }
+#container {
+  display: flex;
+  flex-wrap: wrap;
+}
