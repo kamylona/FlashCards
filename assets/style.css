@@ -54,6 +54,20 @@ body {
     font-weight: 700;
 }
 
+.cartao:hover .cartao_conteudo {
+    transform: rotateY(180deg)
+}
+
+.cartao_conteudo__pergunta, .cartao_conteudo_resposta {
+    backface-visibility: hidden;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+.cartao_conteudo_resposta p {
+    transform: rotateY(180deg)
+}
+
 footer {
     background-color: black;
     color: white;
