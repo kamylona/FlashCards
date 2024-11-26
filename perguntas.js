@@ -56,3 +56,8 @@ criaCartao(
     'Qual é o primeiro elemento da tabela periódica?'
     'O Hidrogênio (H).'
 )
+criaCartao(
+    'Física'
+    'O que é cinética?'
+    'Área de estudo que examina as forças que agem sobre um sistema.'
+)
