@@ -27,7 +27,32 @@ criaCartao(
     'Cultura são crenças, costumes e práticas compartilhadas por um grupo humano.'
 )
 criaCartao(
-    'Sociologia',
-    'Qual o conceito de cultura de acordo com a sociologia?',
-    'Cultura são crenças, costumes e práticas compartilhadas por um grupo humano.'
+    'Matemática',
+    'O que é um número primo',
+    'Número primo é aquele que só pode ser dividido por 1 e por ele mesmo.'
+)
+criaCartao(
+    'Empreendedorismo',
+    'O que é marketing?',
+    'Marketing é o conjunto de ações e estratégias utilizadas para promover e vender produtos ou serviços, além de entender as necessidades e desejos dos consumidores.'
+)
+criaCartao(
+    'Educação Financeira'
+    'Qual o significado de "FGC"?'
+    'Fundo Garantidor de Créditos'
+)
+criaCartao(
+    'Biologia'
+    'O que é fotossíntese?'
+    'Fotossíntese é um processo realizado pelas plantas para a produção de energia.'
+)
+criaCartao(
+    'Biotecnologia'
+    'Para que serve a biotecnologia azul e a vermelha?'
+    'Azul: recursos marinhos - Vermelha: saúde humana.'
+)
+criaCartao(
+    'Química'
+    'Qual é o primeiro elemento da tabela periódica?'
+    'O Hidrogênio (H).'
 )
